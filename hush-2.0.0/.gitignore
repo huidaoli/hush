@@ -1,0 +1,15 @@
+# for dev tools
+.buildpath
+.settings
+.project
+.idea
+
+# for php libraries
+phplibs/
+
+# for run files
+.env.php
+hush-run/sys/
+hush-run/cdn/
+hush-run/dat/
+hush-run/run/

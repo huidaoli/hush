@@ -1,0 +1,1 @@
+{include file="base/crud/list.tpl" blocks="add,edit"}
